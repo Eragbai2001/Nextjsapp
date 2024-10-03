@@ -14,7 +14,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex gap-4 items-center">
             <ShoppingCart />
-            <div className="text-[#A6A6A8] text-2xl font-bold">Brand</div>
+            <div className="text-[#A6A6A8] text-2xl font-bold">Brands</div>
           </div>
 
           {/* Hamburger Menu (mobile) */}
