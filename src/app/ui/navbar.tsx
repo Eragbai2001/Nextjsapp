@@ -12,7 +12,7 @@ export default function Navbar() {
         {/* Flex container with the border within the padding */}
         <div className="flex items-center justify-between flex-row-reverse border-b border-gray-300 pb-10 ">
           {/* Logo */}
-          <div className="flex gap-4 items-center">
+          <div className="flex gap-4 items-center hover:text-red-500">
             <ShoppingCart />
             <div className="text-[#A6A6A8] text-2xl font-bold">Brands</div>
           </div>
