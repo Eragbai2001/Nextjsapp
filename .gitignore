@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -41,6 +42,8 @@ next-env.d.ts
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+=======
+>>>>>>> ede0bf5bf9a443589a5f6d8f3172eee3b6e156ea
 # Node artifact files
 node_modules/
 dist/
@@ -86,4 +89,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+<<<<<<< HEAD
 >>>>>>> c8f969eb3f60084694fc229253a018ee5e533656
+=======
+# Example of another .gitignore content
+# Add any additional patterns here
+>>>>>>> ede0bf5bf9a443589a5f6d8f3172eee3b6e156ea
